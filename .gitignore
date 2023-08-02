@@ -1,0 +1,13 @@
+venv
+.ipynb_checkpoints
+test.ipynb
+test.py
+products_full.csv
+product_urls.csv
+products.csv
+prod_urls.csv 
+ml/data/product_labels_1.csv
+ml/data/product_labels_2.csv
+ml/model_try.ipynb
+ml/data_cleaning.ipynb 
+ml/auth_prod_model
